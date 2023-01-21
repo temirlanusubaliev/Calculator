@@ -1,4 +1,4 @@
-package org.example;
+package org.calculator;
 
 public class Converter {
     public String arabicToRoman(int arabNums) {
